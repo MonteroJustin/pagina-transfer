@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         > 
-          Paselo entonces putoSSSSSSSS
+          Justin Careverga
         </a>
       </header>
     </div>
