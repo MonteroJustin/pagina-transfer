@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         > 
-          hongo monaguillo
+          Paselo entonces
         </a>
       </header>
     </div>
