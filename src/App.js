@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         > 
-          Paselo entonces putoSSSS
+          Paselo entonces putoS123
         </a>
       </header>
     </div>
