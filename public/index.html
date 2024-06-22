@@ -24,10 +24,52 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
+    <style>
+      body {
+          font-family: Arial, sans-serif;
+          background-color: #f4f4f4;
+          margin: 0;
+          padding: 0;
+      }
+      .container {
+          width: 90%;
+          margin: 20px auto;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-around;
+      }
+      .card {
+          background-color: #fff;
+          border: 1px solid #ddd;
+          border-radius: 5px;
+          width: 300px;
+          margin: 10px;
+          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+          overflow: hidden;
+      }
+      .card img {
+          width: 100%;
+          height: auto;
+      }
+      .card-content {
+          padding: 15px;
+      }
+      .card-title {
+          font-size: 1.5em;
+          margin: 0 0 10px 0;
+      }
+      .card-description {
+          font-size: 1em;
+          color: #555;
+      }
+  </style>
+
     <title>VentasTransfer</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
+    
+
     <div id="root"></div>
     <!--
       This HTML file is a template.
@@ -39,5 +81,7 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+
+
   </body>
 </html>

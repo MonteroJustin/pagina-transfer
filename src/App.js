@@ -1,23 +1,17 @@
-import logo from './logo.svg';
+// src/App.js
+import React from 'react';
 import './App.css';
 
 function App() {
+
+  const nombre = <h1>Justin</h1>
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Pagina para ventas tranfer
-        </p>
-        <a
-          className="App-link"
-          href="https://es.wikipedia.org/wiki/Agaricus#/media/Archivo:Agaricus_campestris.jpg"
-          target="_blank"
-          rel="noopener noreferrer"
-        > 
-          Justin Careverga
-        </a>
-      </header>
+
+      {nombre}
+
+
     </div>
   );
 }
