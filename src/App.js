@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         > 
-          Paselo entonces putoS123
+          Justin Careverga
         </a>
       </header>
     </div>
