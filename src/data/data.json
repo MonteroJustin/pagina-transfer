@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "titulo": "Vodka Premium",
+        "descripcion": "Bebida alcohólica destilada",
+        "categoria": "Bebidas",
+        "imagen": "http://dummyimage.com/250x250.png/cc0000/ffffff",
+        "precio": 7030,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "Seguro de Vida",
+        "descripcion": "Protección financiera para familiares",
+        "categoria": "Salud",
+        "imagen": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+        "precio": 5516,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Pan Integral",
+        "descripcion": "Alimento rico en fibra",
+        "categoria": "Alimentos",
+        "imagen": "http://dummyimage.com/250x250.png/dddddd/000000",
+        "precio": 6249,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "Chocolate Oscuro",
+        "descripcion": "Postre con alto contenido de cacao",
+        "categoria": "Alimentos",
+        "imagen": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+        "precio": 3198,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "Audífonos Inalámbricos",
+        "descripcion": "Dispositivo de audio sin cables",
+        "categoria": "Hogar",
+        "imagen": "http://dummyimage.com/250x250.png/cc0000/ffffff",
+        "precio": 2804,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "Limpiador Multiusos",
+        "descripcion": "Producto para limpieza general",
+        "categoria": "Hogar",
+        "imagen": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+        "precio": 3439,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Software de Contabilidad",
+        "descripcion": "Programa para gestión financiera",
+        "categoria": "Hogar",
+        "imagen": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+        "precio": 9500,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "titulo": "Analgésicos",
+        "descripcion": "Medicamento para aliviar el dolor",
+        "categoria": "Salud",
+        "imagen": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+        "precio": 4235,
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "titulo": "Taladro Eléctrico",
+        "descripcion": "Herramienta para perforar",
+        "categoria": "Hogar",
+        "imagen": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+        "precio": 9590,
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "titulo": "Servicio de Consultoría",
+        "descripcion": "Asesoramiento profesional",
+        "categoria": "Salud",
+        "imagen": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+        "precio": 7091,
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "titulo": "Plato de Cocina",
+        "descripcion": "Utensilio para servir alimentos",
+        "categoria": "Hogar",
+        "imagen": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+        "precio": 3981,
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "titulo": "Seguro de Vida Completo",
+        "descripcion": "Cobertura amplia para la familia",
+        "categoria": "Salud",
+        "imagen": "http://dummyimage.com/250x250.png/dddddd/000000",
+        "precio": 6618,
+        "stock": 10
+    },
+    {
+        "id": 13,
+        "titulo": "Manzana Roja",
+        "descripcion": "Fruta fresca y jugosa",
+        "categoria": "Alimentos",
+        "imagen": "http://dummyimage.com/250x250.png/cc0000/ffffff",
+        "precio": 2004,
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "titulo": "Leche Entera",
+        "descripcion": "Producto lácteo nutritivo",
+        "categoria": "Alimentos",
+        "imagen": "http://dummyimage.com/250x250.png/cc0000/ffffff",
+        "precio": 6977,
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "titulo": "Servicio de Envío Rápido",
+        "descripcion": "Entrega de paquetes de alta velocidad",
+        "categoria": "Hogar",
+        "imagen": "http://dummyimage.com/250x250.png/cc0000/ffffff",
+        "precio": 3280,
+        "stock": 10
+    },
+    {
+        "id": 16,
+        "titulo": "Agua Mineral",
+        "descripcion": "Bebida refrescante y saludable",
+        "categoria": "Bebidas",
+        "imagen": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+        "precio": 9082,
+        "stock": 10
+    },
+    {
+        "id": 17,
+        "titulo": "Medicamento para Dolor",
+        "descripcion": "Alivio rápido y efectivo",
+        "categoria": "Salud",
+        "imagen": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+        "precio": 9676,
+        "stock": 10
+    },
+    {
+        "id": 18,
+        "titulo": "Galletas Integrales",
+        "descripcion": "Snack saludable y delicioso",
+        "categoria": "Alimentos",
+        "imagen": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+        "precio": 9603,
+        "stock": 10
+    },
+    {
+        "id": 19,
+        "titulo": "Mantequilla de Maní",
+        "descripcion": "Untable cremoso y nutritivo",
+        "categoria": "Alimentos",
+        "imagen": "http://dummyimage.com/250x250.png/cc0000/ffffff",
+        "precio": 2780,
+        "stock": 10
+    },
+    {
+        "id": 20,
+        "titulo": "Cereal Integral",
+        "descripcion": "Desayuno rico en fibra",
+        "categoria": "Alimentos",
+        "imagen": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+        "precio": 8220,
+        "stock": 10
+    }
+]
